@@ -31,3 +31,15 @@ screen*.png
 # OS
 .DS_Store
 Thumbs.db
+
+# Screenshots
+final_*.png
+s_*.png
+t_*.png
+v2_*.png
+screen*.png
+learnpython/s_*.png
+learnpython/t_*.png
+learnpython/final_*.png
+learnpython/v2_*.png
+learnpython/screen*.png
