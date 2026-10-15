@@ -11,6 +11,7 @@ author_email = "kristyarutya03@mail.ru"
 
 [tool.briefcase.app.learnpython]
 formal_name = "Изучение Python"
+icon = "src/learnpython/resources/icon"
 description = "Приложение для изучения основ Python"
 long_description = """More details about the app should go here.
 """
@@ -185,4 +186,3 @@ build_gradle_dependencies = [
 requires = [
     "toga-web~=0.5.0",
 ]
-
